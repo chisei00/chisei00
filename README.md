@@ -15,7 +15,7 @@
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRynelT_bQGOYxJYnjYtp1-9IRQtSQiUrCJbYXz4QFNvg&s' style="height: 400px;"/>
 
 #### 🛠️ Working on
-[![Bill-Ang Repo](https://github.com/chisei00/Bill-Ang)]
+[Bill-Ang Repo](https://github.com/chisei00/Bill-Ang)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chisei00&icon=0&color=0)](https://visitcount.itsvg.in)
